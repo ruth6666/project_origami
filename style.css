@@ -1,0 +1,16 @@
+h1{
+color:palevioletred
+}
+.main1{
+    background-color: powderblue;
+    display:flex;
+    justify-content: space-around;
+}
+.main2{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    
+}
